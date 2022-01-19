@@ -5,8 +5,8 @@ REST API
 
 =============== Используемые технологии:
 
-Maven (для сборки проекта)
-Tomcat 9 (для запуска приложения)
-Spring
-Spring Data JPA
+Maven (для сборки проекта),
+Tomcat 9 (для запуска приложения),
+Spring,
+Spring Data JPA,
 Mysql (база данных).
